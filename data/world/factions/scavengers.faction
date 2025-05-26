@@ -1,0 +1,47 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/Portrait_andre.png",
+            "graphics/portraits/Portrait_cuno.png",
+            "graphics/portraits/Portrait_Echomaker.png",
+            "graphics/portraits/Portrait_egg-head_-92794.png",
+            "graphics/portraits/Portrait_flacio.png",
+            "graphics/portraits/Portrait_flaubert.png",
+            "graphics/portraits/Portrait_gaston.png",
+            "graphics/portraits/Portrait_jules.png",
+            "graphics/portraits/Portrait_kortenaer.png",
+            "graphics/portraits/Portrait_liliennes-other-twin.png",
+            "graphics/portraits/Portrait_liliennes-twin.png",
+            "graphics/portraits/Portrait_manonwaterlock.png",
+            "graphics/portraits/Portrait_nix-gottlieb.png",
+            "graphics/portraits/Portrait_noid.png",
+            "graphics/portraits/Portrait_paledriver.png",
+            "graphics/portraits/Portrait_Pryce.png",
+            "graphics/portraits/Portrait_racist.png",
+            "graphics/portraits/Portrait_ruud.png",
+            "graphics/portraits/Portrait_scablead.png",
+            "graphics/portraits/Portrait_smoker.png",
+            "graphics/portraits/Portrait_steban.png",
+            "graphics/portraits/Portrait_tommy.png",
+            "graphics/portraits/Portrait_Torson_v3.png",
+            "graphics/portraits/Portrait_you.png",
+            "graphics/portraits/Portrait_you_shaved.png"
+
+
+		],
+		"standard_female":[
+            "graphics/portraits/Portrait_aliiz.png",
+            "graphics/portraits/Portrait_annete.png",
+            "graphics/portraits/Portrait_cunoesse.png",
+            "graphics/portraits/Portrait_lena.png",
+            "graphics/portraits/Portrait_little-lily.png",
+            "graphics/portraits/Portrait_Minot.png",
+            "graphics/portraits/Portrait_netpicker.png",
+            "graphics/portraits/Portrait_phasmid.png",
+            "graphics/portraits/Portrait_repeater-station.png",
+            "graphics/portraits/Portrait_sylvie.png",
+            "graphics/portraits/TFC_portrait_little-lily.png"
+
+		]		
+	}
+}

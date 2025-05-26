@@ -1,0 +1,8 @@
+{
+	"id":"DiscoElysiumPortraits", # internal id
+	"name":"Disco Elysium Portrait Pack", # displayed to the player
+	"author":"ViceroyFaust",
+	"version":"2025-05-21",
+	"description":"Adds portraits of every Disco Elysium character to the game.",
+    "gameVersion": "0.98a"
+}

@@ -1,0 +1,15 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/Portrait_de-paule.png",
+            "graphics/portraits/Portrait_egg-head.png",
+            "graphics/portraits/Portrait_kortenaer.png",
+            "graphics/portraits/Portrait_mysterious-eyes.png",
+            "graphics/portraits/Portrait_ruud.png"
+
+
+		],
+		"standard_female":[
+		]		
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/Portrait_jean.png",
+            "graphics/portraits/Portrait_mikael.png",
+            "graphics/portraits/Portrait_rene.png",
+            "graphics/portraits/Portrait_trant.png"
+		],
+		"standard_female":[
+		]
+	}
+}

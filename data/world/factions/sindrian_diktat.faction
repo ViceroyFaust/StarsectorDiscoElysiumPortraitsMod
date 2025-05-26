@@ -1,0 +1,11 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/Portrait_crypto.png",
+            "graphics/portraits/Portrait_you_fash.png",
+            "graphics/portraits/Portrait_you_fash_nobeard.png"
+		],
+		"standard_female":[
+		]		
+	}
+}

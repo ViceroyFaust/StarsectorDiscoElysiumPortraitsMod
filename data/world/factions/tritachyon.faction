@@ -1,0 +1,19 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/Portrait_egg-head.png",
+            "graphics/portraits/Portrait_egg-head_-92794.png",
+            "graphics/portraits/Portrait_siileng.png",
+            "graphics/portraits/Portrait_sponsor.png"
+
+		],
+		"standard_female":[
+            "graphics/portraits/Portrait_archer.png",
+            "graphics/portraits/Portrait_Dolores.png",
+            "graphics/portraits/Portrait_fritte.png",
+            "graphics/portraits/Portrait_joyce.png",
+            "graphics/portraits/Portrait_klaasje.png",
+            "graphics/portraits/Portrait_soona.png"
+		]		
+	}
+}
